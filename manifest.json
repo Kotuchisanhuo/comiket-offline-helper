@@ -1,0 +1,18 @@
+{
+  "name": "夏コミ现场助手",
+  "short_name": "夏コミ助手",
+  "description": "夏コミ现场使用的离线摊位、路线、预算和备忘工具。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6ef",
+  "theme_color": "#0e8f82",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
